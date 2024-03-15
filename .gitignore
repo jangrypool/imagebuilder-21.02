@@ -1,0 +1,13 @@
+/dl
+/bin
+/tmp
+/logs
+key-build*
+/.profiles.mk
+/packages/Packages*
+packages/Packages
+/build_dir/target-mips_24kc_musl/linux-ath79_generic/tmp/*
+/build_dir/target-mips_24kc_musl/json_info_files
+/build_dir/target-mips_24kc_musl/root.orig-ath79
+/build_dir/target-mips_24kc_musl/root-ath79
+packages/Packages
